@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Marcin Zogrodnik`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Marcin Zogrodnik`,
+      summary: `Hi, I am Marcin, Front End Developer. I do modern and fast websites using WordPress and JAMstack.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Hi, I am Marcin, Front End Developer. I do modern and fast websites using WordPress and JAMstack.`,
+    siteUrl: `https://zogdev.co.uk/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `zogrodnik_m`,
     },
   },
   plugins: [
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `zogdev`,
+        short_name: `zogdev`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
